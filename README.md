@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Oğuz
 
-<!--
-**ouzoks/ouzoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend-focused developer with strong confidence in React (JavaScript),
+and experience working on AI-assisted backend projects using .NET.
 
-Here are some ideas to get you started:
+### What I’m confident in
+- ⚛️ Frontend development with React
+- 🎨 Building clean, structured UI components (experienced with MUI in projects)
+- 🧠 Understanding and integrating AI-assisted code responsibly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I have experience with
+- 🔧 Backend development through AI-assisted workflows  
+  (familiar with REST APIs, controllers, and data flow in .NET)
+- 📊 Academic NLP & sentiment analysis projects
+- 📄 Working with structured documentation and project-based development
+
+### How I work
+I use AI as a support tool, not a replacement for understanding.  
+All final decisions and integrations are reviewed and validated by me.
