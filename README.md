@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Oğuz
 
 I'm a frontend-focused developer with strong confidence in React (JavaScript),
-and experience working on AI-assisted backend projects using .NET.
+and experience working on backend projects using .NET.
 
 ### What I’m confident in
 - ⚛️ Frontend development with React
@@ -9,7 +9,7 @@ and experience working on AI-assisted backend projects using .NET.
 - 🧠 Understanding and integrating AI-assisted code responsibly
 
 ### What I have experience with
-- 🔧 Backend development through AI-assisted workflows  
+- 🔧 Backend development through workflows  
   (familiar with REST APIs, controllers, and data flow in .NET)
 - 📊 Academic NLP & sentiment analysis projects
 - 📄 Working with structured documentation and project-based development
