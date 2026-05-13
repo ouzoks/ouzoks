@@ -1,11 +1,11 @@
 ## Hi 👋 I'm Oğuz
 
-I'm a frontend-focused developer with strong confidence in React (JavaScript),
+I'm a frontend-focused Fullstack developer with strong confidence in React (JavaScript, TypeScript),
 and experience working on backend projects using .NET.
 
 ### What I’m confident in
 - ⚛️ Frontend development with React
-- 🎨 Building clean, structured UI components (experienced with MUI in projects)
+- 🎨 Building clean, structured UI components (experienced with MUI, Tailwind CSS in projects)
 - 🧠 Understanding and integrating AI-assisted code responsibly
 
 ### What I have experience with
